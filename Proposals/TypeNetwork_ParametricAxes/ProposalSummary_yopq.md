@@ -8,7 +8,7 @@ See details in [Type Network Parametric Axes Proposal Overview](Overview.md).
 
 ## General Technical Information
 
-**Overview:** This describes a proposed Y Opaque axis to vary the vertictal (y-direction) thickness of strokes.
+**Overview:** This describes a proposed Y Opaque axis to vary the vertical (y-direction) thickness of strokes.
 
 **Related axes:** wght, width, opsz
 
