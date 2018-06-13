@@ -9,7 +9,7 @@ See details in [Type Network Parametric Axes Proposal Overview](Overview.md).
 
 ## General Technical Information
 
-**Overview:** This describes a proposed X Transparent Decender axis to vary the height of decenders.
+**Overview:** This describes a proposed X Transparent Descender axis to vary the height of descenders.
 
 **Related axes:** wght, width, opsz
 
